@@ -1,2 +1,13 @@
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/util/ViewNames.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/util/AttributeNames.java
 /Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/config/WebConfig.java
-/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/config/WellAppInitializer.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/service/DemoServiceImpl.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/util/Mappings.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/model/TodoData.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/model/TodoItem.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/service/TodoServiceImpl.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/controller/DemoController.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/controller/TodoController.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/config/WebAppInitializer.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/service/DemoService.java
+/Users/BrianHanna/Desktop/practice/spring-udemy/todo-list/src/main/java/academy/learnprogramming/service/TodoService.java
